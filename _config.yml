@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+gems:
+  - jemoji
+
+title: BitSocket
+google_analytics: UA-3048546-3
