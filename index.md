@@ -32,7 +32,7 @@ You can [use on-line tools](test.md) to try it.
 - Consumers (your customers) subscribe to channel they want.
 - Consumers receive messages published to channels they are subscribed to (excluding those published prior to their subscription).
 
-> Note: BitSocket can be also run in the polling mode. It will poll your existing REST API and publishing messages instead of you. You don't need to implement anything at all. But this solution has its drawnbacks we can discuess with you.
+> Note: BitSocket can be also run in the polling mode. It will poll your existing REST API and publish messages instead of you. You don't need to implement anything at all. But this solution has its drawnbacks we can discuss with you.
 
 ## How channels work?
 - BitSocket is multi-channel!
@@ -63,9 +63,9 @@ You can [use on-line tools](test.md) to try it.
 # What do we offer?
 
 - licence for commercial usage
-- customization and integration tailored for your needs 
+- customization and integration tailored to your needs 
 - documentation how to deploy and run the server
-- support for your operation
+- service support
 - adding your exchange to [xchange-stream](https://github.com/bitrich-info/xchange-stream) client library
 
 # What it costs?
